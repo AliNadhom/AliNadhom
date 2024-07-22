@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<a target="_top" href="https://flamingtext.com/" ><img src="https://blog.flamingtext.com/blog/2024/07/22/flamingtext_com_1721658512_115725413.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
+<a target="_top" href="https://flamingtext.com/" ><img src="https://blog.flamingtext.com/blog/2024/07/22/flamingtext_com_1721658787_115725414.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
 </h1>
 
 <p align="center">
