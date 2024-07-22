@@ -26,9 +26,10 @@
 - 💻 I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`<br>
 - ✍🏻 I believe in using software to solve complex problems and make life easier<br>
 - 🤓 I'm always on the lookout for new technologies and methodologies to learn and implement<br>
-- 🤔 I’m currently open for a new `job opportunity`, this is <a href="https://drive.google.com/file/d/1UjFeXriFdseazjWHrEM_dwc5f_RAoNDR/view?usp=sharing" target="_blank">MY RESUME</a><br>
-- 💥 Feel free to visit <a href="https://portfolio-f2273.web.app/" target="_blank">MY WEBSITE</a> for more information and to get in touch!<br>
+- 🤔 I’m currently open for a new `job opportunity`, this is <a href="https://drive.google.com/file/d/1UjFeXriFdseazjWHrEM_dwc5f_RAoNDR/view?usp=sharing" target="_blank" rel="noopener noreferrer">MY RESUME</a><br>
+- 💥 Feel free to visit <a href="https://portfolio-f2273.web.app/" target="_blank" rel="noopener noreferrer">MY WEBSITE</a> for more information and to get in touch!<br>
 <br>
+
 
 
 
