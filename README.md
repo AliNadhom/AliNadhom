@@ -22,13 +22,14 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- 👨‍💻 I'm a Full-Stack Developer specializing in building and optimizing web applications
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`
-- ✍🏻 I believe in using software to solve complex problems and make life easier
-- 🤓 I'm always on the lookout for new technologies and methodologies to learn and implement
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1UjFeXriFdseazjWHrEM_dwc5f_RAoNDR/view?usp=sharing)
-- :boom: Feel free to visit [MY WEBSITE](https://portfolio-f2273.web.app/) for more information and to get in touch!
+- 👨‍💻 I'm a Full-Stack Developer specializing in building and optimizing web applications<br>
+- 💻 I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`<br>
+- ✍🏻 I believe in using software to solve complex problems and make life easier<br>
+- 🤓 I'm always on the lookout for new technologies and methodologies to learn and implement<br>
+- 🤔 I’m currently open for a new `job opportunity`, this is <a href="https://drive.google.com/file/d/1UjFeXriFdseazjWHrEM_dwc5f_RAoNDR/view?usp=sharing" target="_blank">MY RESUME</a><br>
+- 💥 Feel free to visit <a href="https://portfolio-f2273.web.app/" target="_blank">MY WEBSITE</a> for more information and to get in touch!<br>
 <br>
+
 
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
