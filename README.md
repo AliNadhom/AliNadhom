@@ -23,7 +23,6 @@
 
 <br><br>
 - 👨‍💻 I'm a Full-Stack Developer specializing in building and optimizing web applications
-- 💻 I enjoy competitive programming and am active on platforms like Codeforces, Leetcode, and Atcoder
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`
 - ✍🏻 I believe in using software to solve complex problems and make life easier
 - 🤓 I'm always on the lookout for new technologies and methodologies to learn and implement
